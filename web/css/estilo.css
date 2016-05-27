@@ -1,0 +1,22 @@
+
+    .img1 {
+    vertical-align: middle;
+    margin-left: 98%;
+    margin-top: 1%;
+    width: 31px;
+}
+    .logo{
+        vertical-align: middle;
+        width: 368px;
+        height: 134px;
+        margin-top: -5%;
+    }
+.form1{
+    margin-top: 10%;
+}
+    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        line-height: 1;
+        margin-left: 24%;
+        width: 53%;
+        height: 68%;
+    }
